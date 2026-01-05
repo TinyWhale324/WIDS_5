@@ -2,7 +2,7 @@
 The Repo for WiDS 2025.
 This repository contains the code and notebooks used in the project on Optimal Portfolio Allocation.
 Each notebook in this repository is week-wise and self-contained in itself.There is no dependency or execution order between notebooks.
-'''
+```
 1.Python for Quantitative Analysis
   Used NumPy for vectorized mathematical operations
   Used Matplotlib for financial visualizations
@@ -44,5 +44,5 @@ Formulated portfolio variance as a quadratic form
   Recomputed portfolio volatility under stressed conditions
   Compared original vs stressed risk to study robustness
   Observed how increased correlation reduces diversification benefits
-  '''
+  ```
 
