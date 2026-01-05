@@ -13,11 +13,10 @@ Each notebook in this repository is week-wise and self-contained in itself.There
   Converted price data into:
     Simple returns
     Log returns
-
-Worked with daily data and annualized:
-  Expected returns
-  Volatility
-  Covariance matrices
+  Worked with daily data and annualized:
+    Expected returns
+    Volatility
+    Covariance matrices
 
 3. Risk & Return Analysis
 Computed:
