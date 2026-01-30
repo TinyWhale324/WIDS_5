@@ -6,7 +6,6 @@ Each notebook in this repository is week-wise and self-contained in itself.There
 1.Python for Quantitative Analysis
   Used NumPy for vectorized mathematical operations
   Used Matplotlib for financial visualizations
-  Implemented calculations using matrix algebra instead of loops wherever possible.
 
 2. Financial Data Handling
   Downloaded historical asset prices using yfinance
